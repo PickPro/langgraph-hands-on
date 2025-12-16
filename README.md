@@ -1,5 +1,3 @@
-````md
-
 \# 🦜🕸️ LangGraph Hands-On: Agentic AI Projects
 
 
@@ -339,6 +337,4 @@ The most advanced project. An autonomous trading agent that can recommend trades
 \* \[LangChain Google GenAI](https://python.langchain.com/docs/integrations/chat/google\_generative\_ai/)
 
 
-
-```
 
