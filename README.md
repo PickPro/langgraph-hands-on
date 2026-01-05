@@ -6,9 +6,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Google_GenAI-orange)
 
 This repository contains a progressive series of projects designed to master **LangGraph**, a framework for building stateful, multi-actor AI applications. The projects evolve from basic graph structures to advanced **Human-in-the-Loop (HITL)** autonomous agents.
-
-> **Based on the tutorial:** [Agentic AI Tutorial for Beginners | LangGraph Tutorial](https://www.youtube.com/watch?v=CnXdddeZ4tQ)
-
 ---
 
 ## 🚀 Quick Start
